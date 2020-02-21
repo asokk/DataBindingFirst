@@ -1,0 +1,7 @@
+
+ˆ"squid:ClassVariableVisibilityCheck	"SMake address a static final constant or non-public and provide accessors if needed.(„ƒ ©8º¿”²†.
+"squid:ClassVariableVisibilityCheck"SMake isMinor a static final constant or non-public and provide accessors if needed.(³Ş”Õÿÿÿÿÿ8­–²†.
+„"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(Ü‹‡Ğ8Î‰“²†.
+…"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.(µÔÜŸ8‰Å’²†.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û”ú8Æ–É²†.
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ò½”'8„¾Ä²†.

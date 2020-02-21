@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstDataBinding</string>
+    <string name="minor">Minor</string>
+    <string name="major">Major</string>
+</resources>
